@@ -18,14 +18,6 @@ The solution is designed to efficiently handle large numbers of files using asyn
 - Logging of operations and errors
 - Graceful handling of missing extensions and runtime errors
 
-## Project Structure
-`
-.
-├── main.py
-├── file_sorter.log(will be created after first run)
-└── README.md
-`
-
 ## Requirements
 
 - Python 3.8 or higher
