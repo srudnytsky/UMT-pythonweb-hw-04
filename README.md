@@ -19,11 +19,12 @@ The solution is designed to efficiently handle large numbers of files using asyn
 - Graceful handling of missing extensions and runtime errors
 
 ## Project Structure
-
+`
 .
 ├── main.py
 ├── file_sorter.log(will be created after first run)
 └── README.md
+`
 
 ## Requirements
 
